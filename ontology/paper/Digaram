@@ -1,0 +1,44 @@
+This diagram shows the PayrollKG ontology. Employee, PayEvent, PayRule, TaxJurisdiction, Deduction, ComplianceRule, and AuditEvent are modeled as connected entities. Temporal validity and override relationships allow PayrollKG to reason over payroll compliance, deductions, audits, and fraud scenarios.
+
+                    ┌────────────┐
+                    │  Employee  │
+                    └─────┬──────┘
+                          │ hasRole
+                          ▼
+                    ┌────────────┐
+                    │    Role    │
+                    └────────────┘
+
+         residesIn / worksIn
+                 │
+                 ▼
+        ┌─────────────────┐
+        │TaxJurisdiction  │
+        └────────┬────────┘
+                 │ effectiveOn
+                 ▼
+        ┌─────────────────┐
+        │ComplianceRule   │◄──── overrides ────┐
+        └────────┬────────┘                    │
+                 │ subjectTo                   │
+                 ▼                             │
+        ┌─────────────────┐                    │
+        │   PayEvent      │────────────────────┘
+        └──────┬──────────┘
+               │ computedUnder
+               ▼
+        ┌─────────────────┐
+        │    PayRule      │
+        └─────────────────┘
+
+               │ deductedFrom
+               ▼
+        ┌─────────────────┐
+        │   Deduction     │
+        └─────────────────┘
+
+               │ triggersAudit
+               ▼
+        ┌─────────────────┐
+        │  AuditEvent     │
+        └─────────────────┘
