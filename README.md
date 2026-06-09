@@ -2,11 +2,16 @@
 
 PayrollKG is an ontology-driven knowledge graph for global payroll operations.
 
-Features:
-- Compliance reasoning
-- Payroll fraud detection
-- Knowledge-graph grounded payroll Q&A
+This repository accompanies the manuscript:
 
-This repository accompanies the IEEE manuscript.
+"PayrollKG: An Ontology-Driven Knowledge Graph for Unified Payroll Operations."
 
-Author: Bhagyalakshmi Duraisamy
+## Repository Structure
+
+- paper/ → IEEE manuscript
+- payrollqa/ → PayrollQA-600 benchmark
+- docs/ → Evaluation and annotation guides
+- ontology/ → Payroll ontology schema
+- experiments/ → Experimental documentation
+
+All artifacts are synthetic and contain no proprietary payroll data.
