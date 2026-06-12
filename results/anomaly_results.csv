@@ -1,0 +1,5 @@
+metric,payrollkg
+F1,0.15544041450777202
+Precision,0.1048951048951049
+Recall,0.3
+Baseline_IsoForest_F1,0.16

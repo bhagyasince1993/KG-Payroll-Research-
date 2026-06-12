@@ -1,0 +1,6 @@
+rule,threshold,multiplier,jurisdiction
+FLSA_Weekly_OT,40,1.5,federal
+CA_Daily_OT_8hr,8,1.5,CA
+CA_Daily_OT_12hr,12,2.0,CA
+NY_Min_Wage_2026,0,1.0,NY
+UK_National_Min,0,1.0,UK_national
