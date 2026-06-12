@@ -1,0 +1,7 @@
+metric,value
+KG_accuracy,0.9563333333333334
+KG_f1,0.38497652582159625
+SQL_accuracy,0.9525
+SQL_f1,0.0
+KG_ms_per_record,0.3141446312268575
+SQL_ms_per_record,0.17883825302124023

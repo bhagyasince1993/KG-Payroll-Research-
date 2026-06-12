@@ -1,0 +1,260 @@
+q_id,type,question,kg_answer,ground_truth,kg_response,llm_response,rag_response
+Q-PAY-001,individual_pay,What was the net pay for employee EMP-00484 in period 5?,6651.73,6651.73,6651.73,6651.73,hallucinated
+Q-PAY-002,individual_pay,What was the net pay for employee EMP-01370 in period 6?,6639.04,6639.04,hallucinated,6639.04,6639.04
+Q-PAY-003,individual_pay,What was the net pay for employee EMP-00990 in period 10?,5387.09,5387.09,5387.09,5387.09,5387.09
+Q-PAY-004,individual_pay,What was the net pay for employee EMP-01943 in period 10?,6318.9,6318.9,6318.9,6318.9,6318.9
+Q-PAY-005,individual_pay,What was the net pay for employee EMP-01274 in period 1?,6194.64,6194.64,6194.64,hallucinated,6194.64
+Q-PAY-006,individual_pay,What was the net pay for employee EMP-01779 in period 12?,3578.17,3578.17,3578.17,3578.17,3578.17
+Q-PAY-007,individual_pay,What was the net pay for employee EMP-01976 in period 2?,5369.85,5369.85,5369.85,5369.85,5369.85
+Q-PAY-008,individual_pay,What was the net pay for employee EMP-00700 in period 5?,5230.47,5230.47,5230.47,5230.47,5230.47
+Q-PAY-009,individual_pay,What was the net pay for employee EMP-00094 in period 7?,5112.55,5112.55,5112.55,5112.55,5112.55
+Q-PAY-010,individual_pay,What was the net pay for employee EMP-00672 in period 12?,3431.3,3431.3,hallucinated,3431.3,3431.3
+Q-PAY-011,individual_pay,What was the net pay for employee EMP-01391 in period 8?,5345.59,5345.59,5345.59,hallucinated,hallucinated
+Q-PAY-012,individual_pay,What was the net pay for employee EMP-01445 in period 5?,5094.16,5094.16,5094.16,5094.16,hallucinated
+Q-PAY-013,individual_pay,What was the net pay for employee EMP-00297 in period 8?,5858.84,5858.84,hallucinated,hallucinated,hallucinated
+Q-PAY-014,individual_pay,What was the net pay for employee EMP-00349 in period 8?,5648.03,5648.03,5648.03,5648.03,5648.03
+Q-PAY-015,individual_pay,What was the net pay for employee EMP-01572 in period 3?,6541.93,6541.93,6541.93,6541.93,6541.93
+Q-PAY-016,individual_pay,What was the net pay for employee EMP-00837 in period 8?,5477.64,5477.64,5477.64,hallucinated,5477.64
+Q-PAY-017,individual_pay,What was the net pay for employee EMP-01428 in period 8?,6334.87,6334.87,6334.87,hallucinated,6334.87
+Q-PAY-018,individual_pay,What was the net pay for employee EMP-00907 in period 1?,5878.05,5878.05,5878.05,hallucinated,5878.05
+Q-PAY-019,individual_pay,What was the net pay for employee EMP-00569 in period 2?,6265.49,6265.49,6265.49,6265.49,hallucinated
+Q-PAY-020,individual_pay,What was the net pay for employee EMP-01408 in period 8?,6579.98,6579.98,hallucinated,hallucinated,6579.98
+Q-PAY-021,individual_pay,What was the net pay for employee EMP-00125 in period 4?,5579.72,5579.72,5579.72,5579.72,5579.72
+Q-PAY-022,individual_pay,What was the net pay for employee EMP-01913 in period 9?,6541.41,6541.41,6541.41,6541.41,hallucinated
+Q-PAY-023,individual_pay,What was the net pay for employee EMP-00241 in period 7?,5380.22,5380.22,5380.22,hallucinated,5380.22
+Q-PAY-024,individual_pay,What was the net pay for employee EMP-00013 in period 4?,5408.23,5408.23,5408.23,5408.23,5408.23
+Q-PAY-025,individual_pay,What was the net pay for employee EMP-01876 in period 3?,3595.76,3595.76,3595.76,hallucinated,hallucinated
+Q-PAY-026,individual_pay,What was the net pay for employee EMP-01251 in period 3?,5195.16,5195.16,5195.16,5195.16,hallucinated
+Q-PAY-027,individual_pay,What was the net pay for employee EMP-00275 in period 12?,6505.39,6505.39,6505.39,6505.39,6505.39
+Q-PAY-028,individual_pay,What was the net pay for employee EMP-00454 in period 10?,3511.24,3511.24,3511.24,3511.24,3511.24
+Q-PAY-029,individual_pay,What was the net pay for employee EMP-00327 in period 1?,5686.83,5686.83,5686.83,hallucinated,5686.83
+Q-PAY-030,individual_pay,What was the net pay for employee EMP-00729 in period 12?,3595.67,3595.67,3595.67,3595.67,3595.67
+Q-PAY-031,individual_pay,What was the net pay for employee EMP-00893 in period 8?,5582.07,5582.07,5582.07,hallucinated,5582.07
+Q-PAY-032,individual_pay,What was the net pay for employee EMP-00006 in period 6?,3437.67,3437.67,3437.67,hallucinated,hallucinated
+Q-PAY-033,individual_pay,What was the net pay for employee EMP-00553 in period 7?,5845.47,5845.47,5845.47,5845.47,5845.47
+Q-PAY-034,individual_pay,What was the net pay for employee EMP-00844 in period 6?,5393.52,5393.52,5393.52,5393.52,5393.52
+Q-PAY-035,individual_pay,What was the net pay for employee EMP-01807 in period 10?,3502.69,3502.69,3502.69,hallucinated,hallucinated
+Q-PAY-036,individual_pay,What was the net pay for employee EMP-00143 in period 6?,5581.08,5581.08,5581.08,5581.08,5581.08
+Q-PAY-037,individual_pay,What was the net pay for employee EMP-00801 in period 9?,5991.73,5991.73,5991.73,5991.73,5991.73
+Q-PAY-038,individual_pay,What was the net pay for employee EMP-00594 in period 9?,3711.71,3711.71,3711.71,3711.71,3711.71
+Q-PAY-039,individual_pay,What was the net pay for employee EMP-01757 in period 7?,3172.18,3172.18,3172.18,hallucinated,hallucinated
+Q-PAY-040,individual_pay,What was the net pay for employee EMP-00058 in period 9?,3403.81,3403.81,3403.81,hallucinated,3403.81
+Q-PAY-041,individual_pay,What was the net pay for employee EMP-00108 in period 6?,3876.1,3876.1,3876.1,3876.1,3876.1
+Q-PAY-042,individual_pay,What was the net pay for employee EMP-01462 in period 11?,6386.66,6386.66,hallucinated,6386.66,6386.66
+Q-PAY-043,individual_pay,What was the net pay for employee EMP-01879 in period 11?,6006.65,6006.65,6006.65,6006.65,6006.65
+Q-PAY-044,individual_pay,What was the net pay for employee EMP-01119 in period 10?,3491.12,3491.12,3491.12,3491.12,3491.12
+Q-PAY-045,individual_pay,What was the net pay for employee EMP-00770 in period 12?,6139.97,6139.97,hallucinated,6139.97,6139.97
+Q-PAY-046,individual_pay,What was the net pay for employee EMP-00040 in period 10?,3166.83,3166.83,3166.83,hallucinated,3166.83
+Q-PAY-047,individual_pay,What was the net pay for employee EMP-00388 in period 3?,5994.83,5994.83,5994.83,hallucinated,5994.83
+Q-PAY-048,individual_pay,What was the net pay for employee EMP-00516 in period 8?,6605.78,6605.78,6605.78,hallucinated,6605.78
+Q-PAY-049,individual_pay,What was the net pay for employee EMP-00542 in period 7?,6252.6,6252.6,6252.6,6252.6,hallucinated
+Q-PAY-050,individual_pay,What was the net pay for employee EMP-00238 in period 4?,5760.45,5760.45,5760.45,5760.45,5760.45
+Q-PAY-051,individual_pay,What was the net pay for employee EMP-00436 in period 9?,6275.0,6275.0,6275.0,6275.0,6275.0
+Q-PAY-052,individual_pay,What was the net pay for employee EMP-00164 in period 9?,6725.74,6725.74,6725.74,6725.74,6725.74
+Q-PAY-053,individual_pay,What was the net pay for employee EMP-00492 in period 8?,3569.54,3569.54,3569.54,hallucinated,3569.54
+Q-PAY-054,individual_pay,What was the net pay for employee EMP-00493 in period 12?,6394.53,6394.53,6394.53,hallucinated,6394.53
+Q-PAY-055,individual_pay,What was the net pay for employee EMP-01346 in period 10?,5372.93,5372.93,5372.93,hallucinated,5372.93
+Q-PAY-056,individual_pay,What was the net pay for employee EMP-01613 in period 12?,3102.06,3102.06,3102.06,3102.06,3102.06
+Q-PAY-057,individual_pay,What was the net pay for employee EMP-01136 in period 11?,3116.02,3116.02,3116.02,3116.02,3116.02
+Q-PAY-058,individual_pay,What was the net pay for employee EMP-01839 in period 4?,6675.81,6675.81,6675.81,6675.81,6675.81
+Q-PAY-059,individual_pay,What was the net pay for employee EMP-00682 in period 1?,3463.82,3463.82,3463.82,3463.82,3463.82
+Q-PAY-060,individual_pay,What was the net pay for employee EMP-00866 in period 12?,3901.65,3901.65,3901.65,hallucinated,3901.65
+Q-PAY-061,individual_pay,What was the net pay for employee EMP-01591 in period 6?,6351.76,6351.76,6351.76,6351.76,6351.76
+Q-PAY-062,individual_pay,What was the net pay for employee EMP-01429 in period 1?,5210.57,5210.57,5210.57,5210.57,5210.57
+Q-PAY-063,individual_pay,What was the net pay for employee EMP-01852 in period 1?,5914.85,5914.85,5914.85,5914.85,5914.85
+Q-PAY-064,individual_pay,What was the net pay for employee EMP-01023 in period 6?,6106.2,6106.2,6106.2,6106.2,6106.2
+Q-PAY-065,individual_pay,What was the net pay for employee EMP-01313 in period 12?,5851.31,5851.31,5851.31,5851.31,5851.31
+Q-PAY-066,individual_pay,What was the net pay for employee EMP-00841 in period 2?,6050.7,6050.7,6050.7,hallucinated,hallucinated
+Q-PAY-067,individual_pay,What was the net pay for employee EMP-00253 in period 5?,6914.05,6914.05,6914.05,6914.05,6914.05
+Q-PAY-068,individual_pay,What was the net pay for employee EMP-00298 in period 4?,3451.74,3451.74,hallucinated,hallucinated,3451.74
+Q-PAY-069,individual_pay,What was the net pay for employee EMP-00645 in period 6?,3320.35,3320.35,3320.35,3320.35,3320.35
+Q-PAY-070,individual_pay,What was the net pay for employee EMP-01252 in period 3?,5224.9,5224.9,5224.9,5224.9,5224.9
+Q-PAY-071,individual_pay,What was the net pay for employee EMP-01773 in period 10?,3410.8,3410.8,3410.8,3410.8,3410.8
+Q-PAY-072,individual_pay,What was the net pay for employee EMP-01229 in period 8?,3503.07,3503.07,3503.07,3503.07,hallucinated
+Q-PAY-073,individual_pay,What was the net pay for employee EMP-01714 in period 11?,6172.18,6172.18,6172.18,hallucinated,6172.18
+Q-PAY-074,individual_pay,What was the net pay for employee EMP-01153 in period 12?,3398.0,3398.0,3398.0,3398.0,hallucinated
+Q-PAY-075,individual_pay,What was the net pay for employee EMP-01431 in period 9?,6583.01,6583.01,6583.01,hallucinated,6583.01
+Q-PAY-076,individual_pay,What was the net pay for employee EMP-01464 in period 8?,5889.09,5889.09,5889.09,5889.09,5889.09
+Q-PAY-077,individual_pay,What was the net pay for employee EMP-00693 in period 8?,3615.74,3615.74,3615.74,3615.74,3615.74
+Q-PAY-078,individual_pay,What was the net pay for employee EMP-01993 in period 2?,6336.75,6336.75,6336.75,hallucinated,6336.75
+Q-PAY-079,individual_pay,What was the net pay for employee EMP-01060 in period 6?,5794.7,5794.7,5794.7,5794.7,5794.7
+Q-PAY-080,individual_pay,What was the net pay for employee EMP-00385 in period 1?,5414.99,5414.99,5414.99,5414.99,5414.99
+Q-PAY-081,individual_pay,What was the net pay for employee EMP-01804 in period 10?,6006.25,6006.25,6006.25,hallucinated,hallucinated
+Q-PAY-082,individual_pay,What was the net pay for employee EMP-01830 in period 5?,5432.96,5432.96,5432.96,5432.96,5432.96
+Q-PAY-083,individual_pay,What was the net pay for employee EMP-00998 in period 6?,3367.67,3367.67,3367.67,hallucinated,hallucinated
+Q-PAY-084,individual_pay,What was the net pay for employee EMP-00346 in period 6?,5252.29,5252.29,5252.29,hallucinated,5252.29
+Q-PAY-085,individual_pay,What was the net pay for employee EMP-00980 in period 9?,5155.45,5155.45,5155.45,hallucinated,5155.45
+Q-PAY-086,individual_pay,What was the net pay for employee EMP-01032 in period 2?,3627.63,3627.63,3627.63,hallucinated,3627.63
+Q-PAY-087,individual_pay,What was the net pay for employee EMP-00919 in period 12?,3256.93,3256.93,3256.93,3256.93,3256.93
+Q-PAY-088,individual_pay,What was the net pay for employee EMP-01065 in period 2?,6320.9,6320.9,6320.9,6320.9,6320.9
+Q-PAY-089,individual_pay,What was the net pay for employee EMP-01823 in period 9?,5775.2,5775.2,5775.2,hallucinated,5775.2
+Q-PAY-090,individual_pay,What was the net pay for employee EMP-01377 in period 12?,5588.07,5588.07,hallucinated,5588.07,5588.07
+Q-PAY-091,individual_pay,What was the net pay for employee EMP-01293 in period 3?,3007.76,3007.76,3007.76,3007.76,hallucinated
+Q-PAY-092,individual_pay,What was the net pay for employee EMP-00390 in period 2?,5480.48,5480.48,5480.48,5480.48,5480.48
+Q-PAY-093,individual_pay,What was the net pay for employee EMP-01543 in period 1?,3499.87,3499.87,3499.87,3499.87,3499.87
+Q-PAY-094,individual_pay,What was the net pay for employee EMP-00777 in period 3?,6423.33,6423.33,6423.33,6423.33,6423.33
+Q-PAY-095,individual_pay,What was the net pay for employee EMP-01609 in period 5?,5936.39,5936.39,hallucinated,hallucinated,5936.39
+Q-PAY-096,individual_pay,What was the net pay for employee EMP-01023 in period 4?,6284.37,6284.37,6284.37,6284.37,6284.37
+Q-PAY-097,individual_pay,What was the net pay for employee EMP-00910 in period 9?,5495.61,5495.61,5495.61,hallucinated,5495.61
+Q-PAY-098,individual_pay,What was the net pay for employee EMP-01457 in period 12?,5407.34,5407.34,5407.34,5407.34,5407.34
+Q-PAY-099,individual_pay,What was the net pay for employee EMP-00758 in period 8?,6059.67,6059.67,6059.67,hallucinated,6059.67
+Q-PAY-100,individual_pay,What was the net pay for employee EMP-00757 in period 5?,5214.7,5214.7,5214.7,hallucinated,5214.7
+Q-PAY-101,individual_pay,What was the net pay for employee EMP-01199 in period 12?,5445.6,5445.6,hallucinated,5445.6,5445.6
+Q-PAY-102,individual_pay,What was the net pay for employee EMP-00293 in period 11?,6218.31,6218.31,6218.31,6218.31,6218.31
+Q-PAY-103,individual_pay,What was the net pay for employee EMP-01245 in period 8?,6119.45,6119.45,6119.45,hallucinated,6119.45
+Q-PAY-104,individual_pay,What was the net pay for employee EMP-00332 in period 9?,6735.46,6735.46,6735.46,6735.46,hallucinated
+Q-PAY-105,individual_pay,What was the net pay for employee EMP-01328 in period 12?,6145.92,6145.92,6145.92,6145.92,6145.92
+Q-PAY-106,individual_pay,What was the net pay for employee EMP-00298 in period 12?,3180.88,3180.88,3180.88,3180.88,hallucinated
+Q-PAY-107,individual_pay,What was the net pay for employee EMP-00559 in period 8?,5882.46,5882.46,5882.46,5882.46,5882.46
+Q-PAY-108,individual_pay,What was the net pay for employee EMP-00980 in period 3?,5061.35,5061.35,5061.35,hallucinated,5061.35
+Q-PAY-109,individual_pay,What was the net pay for employee EMP-01814 in period 9?,5573.16,5573.16,5573.16,5573.16,hallucinated
+Q-PAY-110,individual_pay,What was the net pay for employee EMP-00847 in period 8?,5718.22,5718.22,5718.22,hallucinated,5718.22
+Q-PAY-111,individual_pay,What was the net pay for employee EMP-01997 in period 8?,3476.31,3476.31,3476.31,3476.31,3476.31
+Q-PAY-112,individual_pay,What was the net pay for employee EMP-01125 in period 8?,5389.91,5389.91,5389.91,5389.91,5389.91
+Q-PAY-113,individual_pay,What was the net pay for employee EMP-01075 in period 7?,6272.56,6272.56,6272.56,6272.56,6272.56
+Q-PAY-114,individual_pay,What was the net pay for employee EMP-01032 in period 8?,3621.03,3621.03,3621.03,3621.03,3621.03
+Q-PAY-115,individual_pay,What was the net pay for employee EMP-00368 in period 8?,5770.67,5770.67,5770.67,5770.67,5770.67
+Q-PAY-116,individual_pay,What was the net pay for employee EMP-01594 in period 4?,3418.07,3418.07,3418.07,3418.07,hallucinated
+Q-PAY-117,individual_pay,What was the net pay for employee EMP-00216 in period 11?,6067.33,6067.33,6067.33,hallucinated,6067.33
+Q-PAY-118,individual_pay,What was the net pay for employee EMP-00572 in period 5?,4891.88,4891.88,4891.88,4891.88,4891.88
+Q-PAY-119,individual_pay,What was the net pay for employee EMP-01843 in period 6?,3540.44,3540.44,3540.44,hallucinated,hallucinated
+Q-PAY-120,individual_pay,What was the net pay for employee EMP-01516 in period 11?,3294.76,3294.76,3294.76,hallucinated,hallucinated
+Q-PAY-121,individual_pay,What was the net pay for employee EMP-00219 in period 9?,6730.72,6730.72,6730.72,6730.72,6730.72
+Q-PAY-122,individual_pay,What was the net pay for employee EMP-01827 in period 11?,5679.17,5679.17,5679.17,5679.17,5679.17
+Q-PAY-123,individual_pay,What was the net pay for employee EMP-00935 in period 12?,6419.84,6419.84,6419.84,hallucinated,6419.84
+Q-PAY-124,individual_pay,What was the net pay for employee EMP-01305 in period 9?,5199.59,5199.59,5199.59,hallucinated,5199.59
+Q-PAY-125,individual_pay,What was the net pay for employee EMP-00251 in period 2?,5505.82,5505.82,hallucinated,5505.82,5505.82
+Q-PAY-126,individual_pay,What was the net pay for employee EMP-00867 in period 8?,4818.68,4818.68,4818.68,4818.68,hallucinated
+Q-PAY-127,individual_pay,What was the net pay for employee EMP-01293 in period 8?,3340.1,3340.1,hallucinated,hallucinated,3340.1
+Q-PAY-128,individual_pay,What was the net pay for employee EMP-01942 in period 4?,5467.57,5467.57,5467.57,hallucinated,5467.57
+Q-PAY-129,individual_pay,What was the net pay for employee EMP-01926 in period 5?,5806.57,5806.57,5806.57,5806.57,5806.57
+Q-PAY-130,individual_pay,What was the net pay for employee EMP-00907 in period 6?,5806.3,5806.3,5806.3,5806.3,5806.3
+Q-PAY-131,individual_pay,What was the net pay for employee EMP-00987 in period 9?,6798.13,6798.13,6798.13,6798.13,6798.13
+Q-PAY-132,individual_pay,What was the net pay for employee EMP-00662 in period 3?,3502.18,3502.18,hallucinated,3502.18,3502.18
+Q-PAY-133,individual_pay,What was the net pay for employee EMP-01062 in period 2?,5636.33,5636.33,5636.33,5636.33,hallucinated
+Q-PAY-134,individual_pay,What was the net pay for employee EMP-00705 in period 11?,5761.28,5761.28,5761.28,hallucinated,hallucinated
+Q-PAY-135,individual_pay,What was the net pay for employee EMP-00879 in period 10?,3454.97,3454.97,3454.97,3454.97,3454.97
+Q-PAY-136,individual_pay,What was the net pay for employee EMP-01425 in period 11?,6422.65,6422.65,6422.65,hallucinated,6422.65
+Q-PAY-137,individual_pay,What was the net pay for employee EMP-00238 in period 8?,5970.36,5970.36,hallucinated,hallucinated,5970.36
+Q-PAY-138,individual_pay,What was the net pay for employee EMP-01023 in period 5?,5927.42,5927.42,5927.42,5927.42,5927.42
+Q-PAY-139,individual_pay,What was the net pay for employee EMP-01306 in period 10?,3035.12,3035.12,3035.12,3035.12,hallucinated
+Q-PAY-140,individual_pay,What was the net pay for employee EMP-01015 in period 1?,6394.15,6394.15,6394.15,6394.15,6394.15
+Q-PAY-141,individual_pay,What was the net pay for employee EMP-00639 in period 9?,6404.66,6404.66,6404.66,6404.66,hallucinated
+Q-PAY-142,individual_pay,What was the net pay for employee EMP-01847 in period 2?,5822.07,5822.07,5822.07,5822.07,hallucinated
+Q-PAY-143,individual_pay,What was the net pay for employee EMP-00679 in period 3?,5763.29,5763.29,5763.29,hallucinated,5763.29
+Q-PAY-144,individual_pay,What was the net pay for employee EMP-00827 in period 2?,6067.81,6067.81,6067.81,6067.81,6067.81
+Q-PAY-145,individual_pay,What was the net pay for employee EMP-01586 in period 10?,6343.35,6343.35,6343.35,6343.35,6343.35
+Q-PAY-146,individual_pay,What was the net pay for employee EMP-00850 in period 11?,5825.97,5825.97,5825.97,5825.97,hallucinated
+Q-PAY-147,individual_pay,What was the net pay for employee EMP-01433 in period 4?,5864.32,5864.32,5864.32,hallucinated,5864.32
+Q-PAY-148,individual_pay,What was the net pay for employee EMP-00520 in period 2?,3494.25,3494.25,3494.25,hallucinated,3494.25
+Q-PAY-149,individual_pay,What was the net pay for employee EMP-00966 in period 1?,6768.25,6768.25,6768.25,6768.25,6768.25
+Q-PAY-150,individual_pay,What was the net pay for employee EMP-01630 in period 12?,5518.98,5518.98,5518.98,5518.98,5518.98
+Q-COMP-151,compliance_audit,Which overtime rule applies to employee EMP-01861 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-152,compliance_audit,Which overtime rule applies to employee EMP-00354 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-153,compliance_audit,Which overtime rule applies to employee EMP-01334 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-154,compliance_audit,Which overtime rule applies to employee EMP-00906 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-155,compliance_audit,Which overtime rule applies to employee EMP-01290 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-156,compliance_audit,Which overtime rule applies to employee EMP-01274 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-157,compliance_audit,Which overtime rule applies to employee EMP-00939 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-158,compliance_audit,Which overtime rule applies to employee EMP-01732 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-159,compliance_audit,Which overtime rule applies to employee EMP-00066 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-160,compliance_audit,Which overtime rule applies to employee EMP-01324 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-161,compliance_audit,Which overtime rule applies to employee EMP-00057 in UK_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,hallucinated,FLSA_Weekly_OT
+Q-COMP-162,compliance_audit,Which overtime rule applies to employee EMP-01293 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-163,compliance_audit,Which overtime rule applies to employee EMP-01119 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-164,compliance_audit,Which overtime rule applies to employee EMP-00585 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,hallucinated
+Q-COMP-165,compliance_audit,Which overtime rule applies to employee EMP-00375 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated
+Q-COMP-166,compliance_audit,Which overtime rule applies to employee EMP-00276 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT,hallucinated
+Q-COMP-167,compliance_audit,Which overtime rule applies to employee EMP-00747 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,hallucinated
+Q-COMP-168,compliance_audit,Which overtime rule applies to employee EMP-00129 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-169,compliance_audit,Which overtime rule applies to employee EMP-01647 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-170,compliance_audit,Which overtime rule applies to employee EMP-01853 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-171,compliance_audit,Which overtime rule applies to employee EMP-00675 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-172,compliance_audit,Which overtime rule applies to employee EMP-01665 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-173,compliance_audit,Which overtime rule applies to employee EMP-01982 in UK_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-174,compliance_audit,Which overtime rule applies to employee EMP-01084 in UK_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-175,compliance_audit,Which overtime rule applies to employee EMP-01923 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-176,compliance_audit,Which overtime rule applies to employee EMP-00100 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-177,compliance_audit,Which overtime rule applies to employee EMP-01180 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-178,compliance_audit,Which overtime rule applies to employee EMP-00965 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-179,compliance_audit,Which overtime rule applies to employee EMP-00793 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-180,compliance_audit,Which overtime rule applies to employee EMP-00030 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-181,compliance_audit,Which overtime rule applies to employee EMP-00629 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-182,compliance_audit,Which overtime rule applies to employee EMP-00945 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-183,compliance_audit,Which overtime rule applies to employee EMP-00573 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-184,compliance_audit,Which overtime rule applies to employee EMP-00908 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-185,compliance_audit,Which overtime rule applies to employee EMP-01081 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-186,compliance_audit,Which overtime rule applies to employee EMP-00451 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated
+Q-COMP-187,compliance_audit,Which overtime rule applies to employee EMP-01610 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated
+Q-COMP-188,compliance_audit,Which overtime rule applies to employee EMP-01291 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-189,compliance_audit,Which overtime rule applies to employee EMP-01079 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-190,compliance_audit,Which overtime rule applies to employee EMP-00255 in UK_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-191,compliance_audit,Which overtime rule applies to employee EMP-00125 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-192,compliance_audit,Which overtime rule applies to employee EMP-01928 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated
+Q-COMP-193,compliance_audit,Which overtime rule applies to employee EMP-00252 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-194,compliance_audit,Which overtime rule applies to employee EMP-00586 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-195,compliance_audit,Which overtime rule applies to employee EMP-01569 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-196,compliance_audit,Which overtime rule applies to employee EMP-00825 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-197,compliance_audit,Which overtime rule applies to employee EMP-00508 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-198,compliance_audit,Which overtime rule applies to employee EMP-00890 in UK_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT,hallucinated
+Q-COMP-199,compliance_audit,Which overtime rule applies to employee EMP-00071 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated
+Q-COMP-200,compliance_audit,Which overtime rule applies to employee EMP-01609 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-201,compliance_audit,Which overtime rule applies to employee EMP-01533 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-202,compliance_audit,Which overtime rule applies to employee EMP-00248 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-203,compliance_audit,Which overtime rule applies to employee EMP-01451 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,hallucinated
+Q-COMP-204,compliance_audit,Which overtime rule applies to employee EMP-00213 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-205,compliance_audit,Which overtime rule applies to employee EMP-00910 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,hallucinated,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-206,compliance_audit,Which overtime rule applies to employee EMP-01742 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-207,compliance_audit,Which overtime rule applies to employee EMP-01245 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-208,compliance_audit,Which overtime rule applies to employee EMP-01697 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,hallucinated,FLSA_Weekly_OT
+Q-COMP-209,compliance_audit,Which overtime rule applies to employee EMP-01183 in UK_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-210,compliance_audit,Which overtime rule applies to employee EMP-00362 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-211,compliance_audit,Which overtime rule applies to employee EMP-01474 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,hallucinated
+Q-COMP-212,compliance_audit,Which overtime rule applies to employee EMP-00679 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-213,compliance_audit,Which overtime rule applies to employee EMP-01622 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-214,compliance_audit,Which overtime rule applies to employee EMP-01090 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-215,compliance_audit,Which overtime rule applies to employee EMP-01988 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,hallucinated,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-216,compliance_audit,Which overtime rule applies to employee EMP-01848 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated
+Q-COMP-217,compliance_audit,Which overtime rule applies to employee EMP-00988 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-218,compliance_audit,Which overtime rule applies to employee EMP-01513 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-219,compliance_audit,Which overtime rule applies to employee EMP-00112 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-220,compliance_audit,Which overtime rule applies to employee EMP-01488 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,hallucinated
+Q-COMP-221,compliance_audit,Which overtime rule applies to employee EMP-01454 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-222,compliance_audit,Which overtime rule applies to employee EMP-00384 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-223,compliance_audit,Which overtime rule applies to employee EMP-01396 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,hallucinated,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-224,compliance_audit,Which overtime rule applies to employee EMP-01055 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-225,compliance_audit,Which overtime rule applies to employee EMP-00756 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-226,compliance_audit,Which overtime rule applies to employee EMP-00325 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-227,compliance_audit,Which overtime rule applies to employee EMP-01624 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-228,compliance_audit,Which overtime rule applies to employee EMP-00788 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-229,compliance_audit,Which overtime rule applies to employee EMP-00369 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-230,compliance_audit,Which overtime rule applies to employee EMP-01820 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-231,compliance_audit,Which overtime rule applies to employee EMP-00070 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-232,compliance_audit,Which overtime rule applies to employee EMP-00858 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-233,compliance_audit,Which overtime rule applies to employee EMP-01484 in NY?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-234,compliance_audit,Which overtime rule applies to employee EMP-01556 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-235,compliance_audit,Which overtime rule applies to employee EMP-01692 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-236,compliance_audit,Which overtime rule applies to employee EMP-01475 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-237,compliance_audit,Which overtime rule applies to employee EMP-01799 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-238,compliance_audit,Which overtime rule applies to employee EMP-00479 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-COMP-239,compliance_audit,Which overtime rule applies to employee EMP-00282 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-240,compliance_audit,Which overtime rule applies to employee EMP-01648 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-241,compliance_audit,Which overtime rule applies to employee EMP-01557 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-242,compliance_audit,Which overtime rule applies to employee EMP-01730 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-243,compliance_audit,Which overtime rule applies to employee EMP-00211 in WA?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-244,compliance_audit,Which overtime rule applies to employee EMP-00298 in TX?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-245,compliance_audit,Which overtime rule applies to employee EMP-01885 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-246,compliance_audit,Which overtime rule applies to employee EMP-01834 in FL?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-247,compliance_audit,Which overtime rule applies to employee EMP-00652 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-248,compliance_audit,Which overtime rule applies to employee EMP-01234 in DE_national?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,hallucinated,FLSA_Weekly_OT
+Q-COMP-249,compliance_audit,Which overtime rule applies to employee EMP-01503 in federal?,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT,FLSA_Weekly_OT
+Q-COMP-250,compliance_audit,Which overtime rule applies to employee EMP-01932 in CA?,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,CA_Daily_OT_8hr overrides FLSA_Weekly_OT,hallucinated,CA_Daily_OT_8hr overrides FLSA_Weekly_OT
+Q-POP-251,population_query,What is the average gross pay in Engineering?,6903.3,6903.3,6903.3,6903.3,hallucinated
+Q-POP-252,population_query,What is the average gross pay in HR?,7004.65,7004.65,7004.65,hallucinated,7004.65
+Q-POP-253,population_query,What is the average gross pay in Finance?,6952.61,6952.61,hallucinated,hallucinated,6952.61
+Q-POP-254,population_query,What is the average gross pay in Operations?,7027.15,7027.15,7027.15,7027.15,7027.15
+Q-POP-255,population_query,What is the average gross pay in Legal?,6857.26,6857.26,6857.26,6857.26,hallucinated
+Q-META-256,system_metadata,What pay rules are active in jurisdiction CA?,PayRule for CA from PayrollKG ontology,PayRule for CA from PayrollKG ontology,PayRule for CA from PayrollKG ontology,PayRule for CA from PayrollKG ontology,PayRule for CA from PayrollKG ontology
+Q-META-257,system_metadata,What pay rules are active in jurisdiction NY?,PayRule for NY from PayrollKG ontology,PayRule for NY from PayrollKG ontology,hallucinated,PayRule for NY from PayrollKG ontology,PayRule for NY from PayrollKG ontology
+Q-META-258,system_metadata,What pay rules are active in jurisdiction TX?,PayRule for TX from PayrollKG ontology,PayRule for TX from PayrollKG ontology,PayRule for TX from PayrollKG ontology,hallucinated,hallucinated
+Q-META-259,system_metadata,What pay rules are active in jurisdiction federal?,PayRule for federal from PayrollKG ontology,PayRule for federal from PayrollKG ontology,PayRule for federal from PayrollKG ontology,hallucinated,PayRule for federal from PayrollKG ontology
