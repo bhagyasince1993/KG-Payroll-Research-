@@ -3,3 +3,17 @@
 employee_graph.html
 payrollkg_streamlit_graph.html
 lib/
+
+# Local generated data and review audit records
+/data/
+/frontend/data/
+
+# Local editor files
+*.code-workspace
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.local
