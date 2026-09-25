@@ -1,33 +1,83 @@
 
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 
-export async function GET() {
-  return NextResponse.json({
-    status: "completed",
-    mode: "sample_report",
-    golden_id: "GOLD-00069",
-    employee: {
-      emp_id: "EMP-00101",
-      name: "Layla Parker",
-      department: "Sales",
-    },
-    payroll_events_reviewed: 12,
-    findings_count: 1,
-    findings: [
+export const runtime = "nodejs";
+export const dynamic = "force-dynamic";
+
+async function investigateEmployee(employeeId: string) {
+  const normalizedId = employeeId.trim().toUpperCase();
+
+  if (!/^EMP-\d{5}$/.test(normalizedId)) {
+    return NextResponse.json(
       {
-        type: "unusual_pay_increase",
-        severity: "high",
-        period: "2025-06",
-        baseline_gross_pay: 12565,
-        actual_gross_pay: 25130,
-        change_percent: 100,
-        explanation:
-          "June gross pay doubled compared with the employee's previous monthly pay.",
+        error: "Enter a valid employee ID, such as EMP-00001.",
       },
-    ],
-    summary:
-      "Reviewed 12 payroll events and identified 1 potential exception.",
-    disclaimer:
-      "This is a saved sample report, not a live investigation.",
-  });
+      { status: 400 }
+    );
+  }
+
+  const backend = process.env.PAYROLL_AGENT_API_URL;
+
+  if (!backend) {
+    return NextResponse.json(
+      { error: "Payroll backend is not configured." },
+      { status: 503 }
+    );
+  }
+
+  try {
+    const response = await fetch(
+      `${backend.replace(/\/+$/, "")}/investigate/${normalizedId}`,
+      {
+        cache: "no-store",
+        signal: AbortSignal.timeout(60000),
+      }
+    );
+
+    if (!response.ok) {
+      return NextResponse.json(
+        {
+          error: "Unable to run the payroll investigation.",
+        },
+        { status: response.status >= 500 ? 502 : response.status }
+      );
+    }
+
+    const result = await response.json();
+
+    return NextResponse.json({
+      ...result,
+      mode: "live_sql_graph_investigation",
+    });
+  } catch (error) {
+    console.error("Investigation request failed:", error);
+
+    return NextResponse.json(
+      {
+        error: "Unable to connect to the payroll backend.",
+      },
+      { status: 502 }
+    );
+  }
+}
+
+export async function GET(request: NextRequest) {
+  const employeeId =
+    request.nextUrl.searchParams.get("employee_id") ||
+    "EMP-00001";
+
+  return investigateEmployee(employeeId);
+}
+
+export async function POST(request: NextRequest) {
+  try {
+    const body = await request.json();
+
+    return investigateEmployee(body.employee_id || "");
+  } catch {
+    return NextResponse.json(
+      { error: "Invalid JSON request." },
+      { status: 400 }
+    );
+  }
 }
